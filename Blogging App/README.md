@@ -45,11 +45,5 @@ $ npm start
 
 	Access development server at: http://localhost:4200
 
-# Contributors
-Ajinkya Kunjir
-Geetesh Pandit
-Pooja Alone
-Yaggesh Likkhar
-
 # License
 No license.
