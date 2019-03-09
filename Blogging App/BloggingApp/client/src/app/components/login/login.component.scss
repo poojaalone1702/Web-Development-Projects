@@ -1,0 +1,52 @@
+
+  /* Add styles to the form container */
+  .container {
+    position: relative;
+    right: 0;
+    margin: 60px;
+    margin-right: 700px;
+    max-width: 400px;
+    height: 400px;
+    padding: 15px;
+    background-color: transparent;
+    color: black;
+  }
+
+  /* Add styles to header */ 
+  .page-header {
+    position: relative;
+    right: 0;
+    margin: 20px;
+    margin-right: 680px;
+    max-width: 300px;
+    padding: 16px;
+    background-color: transparent;
+  }
+
+  /* Set a style for the submit button */
+.btn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px 20px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+  }
+  
+  .btn :hover {
+    opacity: 1;
+  }
+
+/* Set style to form */
+  .form-group {
+      color: black;
+      font-size: 16px;
+      font-weight: bold;
+      width: 100%;
+  }
+
+  .form-control {
+    
+  width: 100%;
+}
